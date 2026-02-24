@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lab01_corridor.unity
     guid: c65fa9d127366a7429732d028a291e16
+  - enabled: 1
+    path: Assets/Scenes/Lab02.unity
+    guid: 207231f96d2862844a327be480feda20
+  - enabled: 1
+    path: Assets/Scenes/LabFloor1.unity
+    guid: 8188a8a4702aa114f8344f965036f8f2
   m_configObjects: {}

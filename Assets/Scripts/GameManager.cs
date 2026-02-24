@@ -7,7 +7,7 @@ public enum KeyType
     None,       // ‚È‚µ
     LabKey1,     // Œ¤‹†º‚ÌŒ®
     LibraryKey, // }‘ŠÙ‚ÌŒ®
-    RoofKey     // ‰®ã‚ÌŒ®
+    KitchenKey     // ‰®ã‚ÌŒ®
 }
 
 public class GameManager : MonoBehaviour
